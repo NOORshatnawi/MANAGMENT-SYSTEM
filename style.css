@@ -1,0 +1,17 @@
+
+body{
+    background-color: #FF87B2;
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    margin-left: 30vw;
+        margin-top: 10vw;
+    caption-side: top;
+    border: 10px solid;
+    border-color: #FFE898;
+    border-radius: 2px;
+    color: #820000;
+
+}
